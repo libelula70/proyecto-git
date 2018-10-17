@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Ana Belén",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
 }
